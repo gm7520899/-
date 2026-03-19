@@ -1,0 +1,5 @@
+{
+  "name": "Miller Paint Color Assistant",
+  "description": "Upload a room photo to get interior style analysis and 3 recommended Miller Paint satin colors.",
+  "requestFramePermissions": []
+}
